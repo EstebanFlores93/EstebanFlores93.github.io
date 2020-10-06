@@ -1,0 +1,3 @@
+
+HUBICAR EL CMD A BIENESRAICES EN D:
+browser-sync start --server --files "BIENESRAICES/*.html"
